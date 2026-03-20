@@ -1,4 +1,16 @@
 # Hi! I'm Leo!
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lywoooo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lywoooo&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lywoooo&layout=compact" height="150"/>
+</p>
+
+---
+
 I am a senior at the Bronx High School of Science, and these are things I have been working on!
 
 I design and build systems that turn abstract ideas into **interactive, working models** — from algorithm visualizations to game environments.
@@ -14,8 +26,9 @@ My game programming work explores how systems behave under rules:
 - interaction logic
 - real-time updates
 - procedural map making
-- implementing pathfinding algorithms like BFS and Dijkstra's
-The games I made were mostly for experimentation but I plan on building a full-fledged game in the future. 
+- implementing pathfinding algorithms like BFS and Dijkstra's  
+
+The games I made were mostly for experimentation but I plan on building a full-fledged game in the future.
 
 ---
 
@@ -28,9 +41,9 @@ Key ideas implemented:
 - game state representation
 - move generation
 - terminal detection (checkmate / stalemate handling)
-- position evaluation heuristics
+- position evaluation heuristics  
 
-This project is an experiment to move beyond visualization into **systems that make decisions under constraints**
+This project is an experiment to move beyond visualization into **systems that make decisions under constraints**.
 
 It reflects core AI principles:
 - search trees
@@ -40,12 +53,14 @@ It reflects core AI principles:
 ---
 
 ### 3. Making Algorithms Visible
+
 I built a full **STEM Visualizer** using React + TypeScript + Vite that transforms algorithms from static concepts into dynamic systems.
+
 - dual representations (bar visualization + indexed arrays)
 - step-by-step execution controls
 - integrated pseudocode and explanations
 - coverage of both **sorting and searching algorithms**
-- built to understand algorithms beyond its code and as **processes over time**
+- built to understand algorithms beyond code as **processes over time**
 
 ---
 
@@ -54,9 +69,9 @@ I built a full **STEM Visualizer** using React + TypeScript + Vite that transfor
 I maintain structured STEM notes in TeX across:
 - Classical Mechanics
 - Linear Algebra
-- Single-Variable Calculus
+- Single-Variable Calculus  
 
-They’re organized like **mini knowledge systems**, optimized for clarity and reuse
+They’re organized like **mini knowledge systems**, optimized for clarity and reuse.
 
 ---
 
@@ -77,7 +92,7 @@ They show:
 - C#
 - Java
 - TypeScript
-- TeX
+- TeX  
 
 **Tools & Frameworks**
 - React + Vite
@@ -95,3 +110,9 @@ I’m especially interested in:
 - robotics and control
 - interactive learning tools
 - AI-adjacent system design
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=lywoooo" height="150"/>
+</p>
