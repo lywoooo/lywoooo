@@ -1,12 +1,12 @@
 # Hi! I'm Leo!
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lywoooo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=lywoooo&label=Profile%20views&color=000000&style=flat" alt="profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lywoooo&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lywoooo&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lywoooo&show_icons=true&theme=github_dark&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lywoooo&layout=compact&theme=github_dark&title_color=ffffff&text_color=ffffff&bg_color=000000" height="150"/>
 </p>
 
 ---
@@ -56,63 +56,4 @@ It reflects core AI principles:
 
 I built a full **STEM Visualizer** using React + TypeScript + Vite that transforms algorithms from static concepts into dynamic systems.
 
-- dual representations (bar visualization + indexed arrays)
-- step-by-step execution controls
-- integrated pseudocode and explanations
-- coverage of both **sorting and searching algorithms**
-- built to understand algorithms beyond code as **processes over time**
-
----
-
-### 4. Technical Knowledge Systems (LaTeX Notes)
-
-I maintain structured STEM notes in TeX across:
-- Classical Mechanics
-- Linear Algebra
-- Single-Variable Calculus  
-
-They’re organized like **mini knowledge systems**, optimized for clarity and reuse.
-
----
-
-## Why this GitHub is special to me
-
-These repos are documentations of how I learn.
-
-They show:
-- how I structure problems
-- how I translate theory into implementation
-- how I move between **math → code → systems → visualization**
-
----
-
-## Technical Stack
-
-**Languages**
-- C#
-- Java
-- TypeScript
-- TeX  
-
-**Tools & Frameworks**
-- React + Vite
-- FTC SDK / Road Runner
-- LaTeX
-
----
-
-## Direction
-
-I’m especially interested in:
-- applied mathematics
-- algorithmic systems
-- simulation and game environments
-- robotics and control
-- interactive learning tools
-- AI-adjacent system design
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lywoooo" height="150"/>
-</p>
+- dual representations
