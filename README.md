@@ -54,4 +54,63 @@ It reflects core AI principles:
 
 I built a full **STEM Visualizer** using React + TypeScript + Vite that transforms algorithms from static concepts into dynamic systems.
 
-- dual representations
+- dual representations (bar visualization + indexed arrays)
+- step-by-step execution controls
+- integrated pseudocode and explanations
+- coverage of both **sorting and searching algorithms**
+- built to understand algorithms beyond code as **processes over time**
+
+---
+
+### 4. Technical Knowledge Systems (LaTeX Notes)
+
+I maintain structured STEM notes in TeX across:
+- Classical Mechanics
+- Linear Algebra
+- Single-Variable Calculus  
+
+They’re organized like **mini knowledge systems**, optimized for clarity and reuse.
+
+---
+
+## Why this GitHub is special to me
+
+These repos are documentations of how I learn.
+
+They show:
+- how I structure problems
+- how I translate theory into implementation
+- how I move between **math → code → systems → visualization**
+
+---
+
+## Technical Stack
+
+**Languages**
+- C#
+- Java
+- TypeScript
+- TeX  
+
+**Tools & Frameworks**
+- React + Vite
+- FTC SDK / Road Runner
+- LaTeX
+
+---
+
+## Direction
+
+I’m especially interested in:
+- applied mathematics
+- algorithmic systems
+- simulation and game environments
+- robotics and control
+- interactive learning tools
+- AI-adjacent system design
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=lywoooo&theme=github-dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="150"/>
+</p>
