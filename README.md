@@ -11,11 +11,9 @@
 
 ---
 
-I am a senior at the Bronx High School of Science, and these are things I have been working on!
+I am a senior at the Bronx High School of Science, and this GitHub is a collection of projects I've been working on!
 
 I design and build systems that turn abstract ideas into **interactive, working models** — from algorithm visualizations to game environments.
-
-This GitHub is a collection of projects on **how I think about systems**:
 
 ---
 
