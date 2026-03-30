@@ -1,116 +1,22 @@
-# Hi! I'm Leo!
+# Hi!
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lywoooo&label=Profile%20views&color=000000&style=flat" alt="profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lywoooo&show_icons=true&theme=github_dark&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lywoooo&layout=compact&theme=github_dark&title_color=ffffff&text_color=ffffff&bg_color=000000" height="150"/>
-</p>
-
----
-
-I am a senior at the Bronx High School of Science, and this GitHub is a collection of projects I've been working on!
+I'm Leo, a senior at the Bronx High School of Science working on my next new obsession. Right now, it's **game development**!
 
 I design and build systems that turn abstract ideas into **interactive, working models** — from algorithm visualizations to game environments.
 
 ---
 
-### 1. Game Systems & Simulation (C#)
-
-My game programming work explores how systems behave under rules:
-- AI entity behavior
-- interaction logic
-- real-time updates
-- procedural map making
-- implementing pathfinding algorithms like BFS and Dijkstra's  
-
-The games I made were mostly for experimentation but I plan on building a full-fledged game in the future.
-
----
-
-### 2. Search & Decision Systems — *PoorFish Chess AI*
-
-The **PoorFish Chess AI** explores adversarial search and evaluation.
-
-Key ideas implemented:
-- **minimax alpha-beta decision making**
-- game state representation
-- move generation
-- terminal detection (checkmate / stalemate handling)
-- position evaluation heuristics  
-
-This project is an experiment to move beyond visualization into **systems that make decisions under constraints**.
-
-It reflects core AI principles:
-- search trees
-- evaluation functions
-- tradeoffs between depth and performance
-
----
-
-### 3. Making Algorithms Visible
-
-I built a full **STEM Visualizer** using React + TypeScript + Vite that transforms algorithms from static concepts into dynamic systems.
-
-- dual representations (bar visualization + indexed arrays)
-- step-by-step execution controls
-- integrated pseudocode and explanations
-- coverage of both **sorting and searching algorithms**
-- built to understand algorithms beyond code as **processes over time**
-
----
-
-### 4. Technical Knowledge Systems (LaTeX Notes)
-
-I maintain structured STEM notes in TeX across:
-- Classical Mechanics
-- Linear Algebra
-- Single-Variable Calculus  
-
-They’re organized like **mini knowledge systems**, optimized for clarity and reuse.
-
----
-
-## Why this GitHub is special to me
-
-These repos are documentations of how I learn.
-
-They show:
-- how I structure problems
-- how I translate theory into implementation
-- how I move between **math → code → systems → visualization**
-
----
-
-## Technical Stack
-
-**Languages**
-- C#
-- Java
-- TypeScript
-- TeX  
-
-**Tools & Frameworks**
-- React + Vite
-- FTC SDK / Road Runner
-- LaTeX
-
----
-
-## Direction
-
-I’m especially interested in:
-- applied mathematics
-- algorithmic systems
-- simulation and game environments
-- robotics and control
-- interactive learning tools
-- AI-adjacent system design
-
+## Languages and Tools
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-darkblue?style=for-the-badge&logo=react&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-darkgreen?style=for-the-badge&logo=latex&logoColor=white)
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lywoooo&theme=github-dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="150"/>
-</p>
