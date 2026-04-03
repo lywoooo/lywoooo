@@ -1,10 +1,11 @@
-# Hi!
+# Hi, I’m Leo! A senior at the Bronx High School of Science.
 
-I'm Leo, a senior at the Bronx High School of Science working on my next new obsession. Right now, it's **game development**!
+Through game development, I build things to experiment with ideas. I use it to test algorithms, explore AI behavior, and bring abstract concepts to life through interaction.
 
-I design and build systems that turn abstract ideas into **interactive, working models** — from algorithm visualizations to game environments.
+Lately, I’ve been working on a chess engine in Unity and C#, an algorithm visualizer with Typescript and React, and small game systems to see how different physical rules actually play out.
 
 ---
+
 
 ## Languages and Tools
 ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white)
