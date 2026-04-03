@@ -8,6 +8,21 @@ Right now, I’m especially interested in how different evaluation and decision 
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lywoooo&theme=github-dark" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/lywoooo/poorfish">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lywoooo&repo=poorfish&theme=github_dark" />
+  </a>
+  <a href="https://github.com/lywoooo/YOUR_VISUALIZER_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lywoooo&repo=YOUR_VISUALIZER_REPO&theme=github_dark" />
+  </a>
+</p>
+
+---
+
 ## Languages and Tools
 ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,5 +38,3 @@ Right now, I’m especially interested in how different evaluation and decision 
 ![LaTeX](https://img.shields.io/badge/LaTeX-darkgreen?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
-
-<p align="center">
