@@ -9,24 +9,15 @@ Right now, I’m especially interested in how different evaluation and decision 
 ---
 
 <p align="center">
-  <img
-    alt="Leo's GitHub activity graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=lywoooo&bg_color=0d1117&color=7d8590&line=58a6ff&point=f85149&area=true&hide_border=true"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lywoooo&theme=github-dark" />
 </p>
 
 <p align="center">
   <a href="https://github.com/lywoooo/poorfish.git">
-    <img
-      alt="Pinned repository: poorfish"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=lywoooo&repo=poorfish&theme=github_dark&hide_border=true&border_radius=12&cache_seconds=86400"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lywoooo&repo=poorfish&theme=github_dark" />
   </a>
   <a href="https://github.com/lywoooo/STEM-Visualizer.git">
-    <img
-      alt="Pinned repository: STEM-Visualizer"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=lywoooo&repo=STEM-Visualizer&theme=github_dark&hide_border=true&border_radius=12&cache_seconds=86400"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lywoooo&repo=STEM-Visualizer&theme=github_dark" />
   </a>
 </p>
 
