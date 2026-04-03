@@ -1,5 +1,10 @@
 # Hi, I’m Leo! 
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lywoooo.vercel.app/api?username=lywoooo&theme=github-dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-lywoooo.vercel.app/api?username=lywoooo&show_icons=true">
+</picture>
+
 I’m a senior at the Bronx High School of Science. Through game development, I build things to experiment with ideas: testing algorithms, exploring AI behavior, and turning abstract concepts into something tangible.
 
 Lately, I’ve been working on a chess engine in Unity (C#), an algorithm visualizer with TypeScript and React, and small game systems to see how different rules actually play out.
@@ -10,15 +15,6 @@ Right now, I’m especially interested in how different evaluation and decision 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lywoooo&theme=github-dark" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/lywoooo/poorfish">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lywoooo&repo=poorfish&theme=github_dark" />
-  </a>
-  <a href="https://github.com/lywoooo/algo-visualizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lywoooo&repo=algo-visualizer&theme=github_dark" />
-  </a>
 </p>
 
 ---
