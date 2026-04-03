@@ -13,11 +13,11 @@ Right now, I’m especially interested in how different evaluation and decision 
 </p>
 
 <p align="center">
-  <a href="https://github.com/lywoooo/poorfish.git">
+  <a href="https://github.com/lywoooo/poorfish">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lywoooo&repo=poorfish&theme=github_dark" />
   </a>
-  <a href="https://github.com/lywoooo/STEM-Visualizer.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lywoooo&repo=STEM-Visualizer&theme=github_dark" />
+  <a href="https://github.com/lywoooo/algo-visualizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lywoooo&repo=algo-visualizer&theme=github_dark" />
   </a>
 </p>
 
