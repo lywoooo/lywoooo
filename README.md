@@ -4,6 +4,8 @@ I’m a senior at the Bronx High School of Science. Through game development, I 
 
 Lately, I’ve been working on a chess engine in Unity (C#), an algorithm visualizer with TypeScript and React, and small game systems to see how different rules actually play out.
 
+Right now, I’m especially interested in how different evaluation and decision strategies change system behavior over time.
+
 ---
 
 ## Languages and Tools
