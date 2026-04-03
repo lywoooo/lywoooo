@@ -16,8 +16,8 @@ Right now, I’m especially interested in how different evaluation and decision 
   <a href="https://github.com/lywoooo/poorfish">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lywoooo&repo=poorfish&theme=github_dark" />
   </a>
-  <a href="https://github.com/lywoooo/YOUR_VISUALIZER_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lywoooo&repo=YOUR_VISUALIZER_REPO&theme=github_dark" />
+  <a href="https://github.com/lywoooo/STEM-Visualizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lywoooo&repo=STEM-Visualizer&theme=github_dark" />
   </a>
 </p>
 
