@@ -17,6 +17,15 @@ The goal is not just to make a stronger bot. I want `poorfish` to become a small
   </a>
 </p>
 
+---
+
+## Current Focus
+
+- Alpha-beta search, iterative deepening, and move ordering
+- Evaluation tuning for stronger positional play
+- AI-vs-AI testing, logging, and engine profile comparisons
+
+---
 <p align="center">
   <a href="https://lywoo.itch.io/poorfish"><strong>Play poorfish</strong></a>
   ·
@@ -29,15 +38,6 @@ The goal is not just to make a stronger bot. I want `poorfish` to become a small
     src="https://github-readme-activity-graph.vercel.app/graph?username=lywoooo&theme=github-dark"
   />
 </p>
-
----
-
-## Current Focus
-
-- Alpha-beta search, iterative deepening, and move ordering
-- Evaluation tuning for stronger positional play
-- AI-vs-AI testing, logging, and engine profile comparisons
-
 ---
 
 ## Languages and Tools
