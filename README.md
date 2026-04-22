@@ -17,6 +17,12 @@ The goal is not just to make a stronger bot. I want `poorfish` to become a small
   </a>
 </p>
 
+<p align="center">
+  <a href="https://lywoo.itch.io/poorfish"><strong>Play poorfish</strong></a>
+  ·
+  <a href="https://github.com/lywoooo/poorfish"><strong>View the source</strong></a>
+</p>
+
 ---
 
 ## Current Focus
@@ -26,11 +32,6 @@ The goal is not just to make a stronger bot. I want `poorfish` to become a small
 - AI-vs-AI testing, logging, and engine profile comparisons
 
 ---
-<p align="center">
-  <a href="https://lywoo.itch.io/poorfish"><strong>Play poorfish</strong></a>
-  ·
-  <a href="https://github.com/lywoooo/poorfish"><strong>View the source</strong></a>
-</p>
 
 <p align="center">
   <img
@@ -38,6 +39,7 @@ The goal is not just to make a stronger bot. I want `poorfish` to become a small
     src="https://github-readme-activity-graph.vercel.app/graph?username=lywoooo&theme=github-dark"
   />
 </p>
+
 ---
 
 ## Languages and Tools
