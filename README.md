@@ -1,10 +1,10 @@
 # Hi, I’m Leo!
 
-I’m a senior at the Bronx High School of Science building `poorfish`, a Unity/C# chess engine.
+I’m a senior at the Bronx High School of Science.
 
-I’m building it as both a playable chess project and a way to experiment with search, evaluation, self-play, and engine behavior. I’m interested in how small changes to an engine’s decision-making can change the way it plays over a full game.
+I’m currently building `poorfish`, which is both a playable chess project and a way to experiment with search, evaluation, self-play, and engine behavior. I’m interested in how small changes to an engine’s decision-making can change the way it plays over a full game.
 
-The goal is not just to make a stronger bot. I want `poorfish` to become a small environment for testing ideas, comparing engine profiles, and understanding why certain moves get chosen.
+I want `poorfish` to become a small environment for testing ideas, comparing engine profiles, and understanding why certain moves get chosen.
 
 ---
 
@@ -27,7 +27,6 @@ The goal is not just to make a stronger bot. I want `poorfish` to become a small
 
 ## Current Focus
 
-- Alpha-beta search, iterative deepening, and move ordering
 - Evaluation tuning for stronger positional play
 - AI-vs-AI testing, logging, and engine profile comparisons
 
