@@ -2,7 +2,9 @@
 
 I’m a senior at the Bronx High School of Science.
 
-I’m currently building `poorfish`, which is both a playable chess project and a way to experiment with search, evaluation, self-play, and engine behavior. I’m interested in how small changes to an engine’s decision-making can change the way it plays over a full game.
+I’m currently building `poorfish`, which is both a playable chess project and a way to experiment with search, evaluation, self-play, and engine behavior. 
+
+I’m interested in how small changes to an engine’s decision-making can change the way it plays over a full game.
 
 I want `poorfish` to become a small environment for testing ideas, comparing engine profiles, and understanding why certain moves get chosen.
 
