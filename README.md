@@ -1,4 +1,4 @@
-# Yello! I’m Leo.
+# Yello! I’m Leo
 
 I’m a senior at the Bronx High School of Science.
 
