@@ -5,24 +5,6 @@ I’m a senior at the Bronx High School of Science.
 ---
 
 <p align="center">
-  <a href="https://github.com/lywoooo/poorfish">
-    <img
-      alt="Pinned repository: poorfish"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=lywoooo&repo=poorfish&theme=github_dark"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://lywoo.itch.io/poorfish"><strong>Play poorfish</strong></a>
-  ·
-  <a href="https://github.com/lywoooo/poorfish"><strong>View the source</strong></a>
-</p>
-
-
----
-
-<p align="center">
   <img
     alt="Leo's GitHub activity graph"
     src="https://github-readme-activity-graph.vercel.app/graph?username=lywoooo&theme=github-dark"
