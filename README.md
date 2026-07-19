@@ -1,6 +1,6 @@
 # Yello! I’m Leo
 
-I’m a senior at the Bronx High School of Science.
+Senior at the Bronx High School of Science and incoming Math major at Stony Brook University. Interested in making cool things look nice.
 
 ---
 
